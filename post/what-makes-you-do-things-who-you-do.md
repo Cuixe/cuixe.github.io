@@ -16,3 +16,6 @@ Is like TDD, why do you use TDD, because it's trendy? Because the people says is
 For me, Uncle Bob is one of the best tech writers and nothing will changes that, and for me he probably is the worst politics writer and I'll never read a book that he writes regarding politics. Like my boss says, "It is what it is compadre".
 
 At the end, learn, use and practice, what makes you be better because that's your principles but, if your principles depends of the behavior of other person, then those aren't yours.
+
+**Hugo Fuentes**
+**hugofuentesmx@gmail.com**
