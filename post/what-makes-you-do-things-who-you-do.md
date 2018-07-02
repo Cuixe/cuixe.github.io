@@ -17,5 +17,6 @@ For me, Uncle Bob is one of the best tech writers and nothing will changes that,
 
 At the end, learn, use and practice, what makes you be better because that's your principles but, if your principles depends of the behavior of other person, then those aren't yours.
 
-**Hugo Fuente**
+**Hugo Fuentes**
+
 [email](mailto:hugofuentes@mail.com)
