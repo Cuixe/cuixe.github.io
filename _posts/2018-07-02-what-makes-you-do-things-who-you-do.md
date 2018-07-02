@@ -2,7 +2,7 @@
 layout: post
 title:  "What makes you do things how you do?"
 date:   2018-07-02 12:30:00 -0500
-categories: Clean code
+categories: Clean_code
 ---
 
 # What makes you do things how you do?
