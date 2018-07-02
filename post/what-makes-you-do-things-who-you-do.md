@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What makes you do things how you do?"
+date:   2018-07-02 12:00:00 -0500
+categories: Clean Code
+---
+
 # What makes you do things how you do?
 
 I'm a Uncle Bob follower, I've read the most representative books from him Clean Code and Clean Coder (if you never read those, you have to), and days ago, he wrote and polemical tweet https://twitter.com/unclebobmartin/status/1010152980988026881 then a lot of people went over his throat, I'm not going to argue if was wrong, is not the point now, but, then Johannes wrote this post on his blog 
