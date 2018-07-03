@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What makes you do things how you do?"
 date:   2018-07-02 12:00:00 -0500
 categories: Clean Code
@@ -8,11 +7,11 @@ categories: Clean Code
 # What makes you do things how you do?
 
 I'm a Uncle Bob follower, I've read the most representative books from him Clean Code and Clean Coder (if you never read those, you have to), and days ago, he wrote and polemical tweet https://twitter.com/unclebobmartin/status/1010152980988026881 then a lot of people went over his throat, I'm not going to argue if was wrong, is not the point now, but, then Johannes wrote this post on his blog 
-[Forget about clean code let's embrace compassionate code](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code) I read it and I thought. I don't really understand what he means. Why is he cuestionating his principles? that makes me thing, What makes you do things how you do?
+[Forget about clean code let's embrace compassionate code](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code) I read it and I thought, I don't really understand what he means, Why is he cuestionating his principles? that makes me thing, What makes you do things how you do?
 
 I try to be a clean coder not because the uncle bob wrote a book, I try to follow the clean code principles not because I like Uncle bob, I follow those because that makes my work better and easier and that's it.
 
-When You see bad code from your coworkers, you have 2 choises or feel angry or feel happy, you have that decision and no one else, Usually when I see bad code I feel happy because in that momment I have the oportunity to help, I have the oportunity to share what I've learn in the last years.
+When You see bad code from your coworkers, you have 2 choises: feel angry or feel happy, you have that decision and no one else, Usually when I see bad code I feel happy because in that momment I have the oportunity to help, I have the oportunity to share what I've learn in the last years.
 
 Obiously I feel angry if after several attempts to explain the better way to do something, but is not just against my coworker also against me, because maybe I'm not teachin well or probably I don't understand the idea at all. But again, thats my reaction. Clean Code can teach you how to react, because its not the intention.
 
